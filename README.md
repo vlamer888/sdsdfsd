@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vlamer888
+- 👋 Hi, I’m og
 - 👀 I’m interested in joy
 - 🌱 I’m currently learning gae
 - 💞️ I’m looking to collaborate on github
